@@ -1,6 +1,7 @@
 # Blender - Bones to Vertex - Batch rename
 
 A Blender add-on that simplifies renaming large amount of vertex groups to their appropriate bones. 
+##Blender 4.1 minimum ver.
 
 ## Installation
 
